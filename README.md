@@ -6,7 +6,7 @@ Se pide implementar un programa que permita leer datos de una API de finanzas, g
 
 ## Integrantes
 
-- Federico Giliemmo
+- Federico Gliemmo
 - Maria Jose Sager
 - Alexis Chan
 - Federico Correa
